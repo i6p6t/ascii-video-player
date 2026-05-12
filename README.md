@@ -6,7 +6,7 @@ Real-time terminal video rendering using colored ASCII characters and synchroniz
 
 <img src="https://img.shields.io/badge/python-3.9+-black?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/opencv-supported-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/platform-windows%20%7C%20linux-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/platform-windows-black?style=for-the-badge">
 
 </div>
 
@@ -35,22 +35,12 @@ Designed for smooth playback, sharp rendering, and clean terminal output.
 
 ---
 
-## Screenshot
-
-```text
-@#S39HMh23Airs;,. 
-GS#9B&@hMH532Airs
-XA253hMHGS#9B&@@@
-```
-
----
-
 # Installation
 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourname/ascii-video-player
+git clone https://github.com/i6p6t/ascii-video-player
 cd ascii-video-player
 ```
 
@@ -128,13 +118,6 @@ Best experience on:
 - PowerShell
 - WezTerm
 - Alacritty
-- Linux terminals with ANSI color support
-
-Recommended minimum size:
-
-```text
-120 x 40
-```
 
 ---
 
